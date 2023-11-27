@@ -12,10 +12,10 @@ function App() {
       <div>
         <button>Press Me</button><br></br>
       </div>
-      <input placeholder="type here"></input>
+      <input placeholder="Type here"></input>
       <article>This is my article</article>
       <p>This is my paragraph</p>
-      <img width= "20%" src="https://th.bing.com/th?id=OSB.QAOuuBKku_3LGc2Z2Vlf2g--.png&w=60&h=60&c=6&qlt=90&o=6&dpr=1.3&pid=BingSports"></img>
+      <img width= "15%" src="https://th.bing.com/th?id=OSB.QAOuuBKku_3LGc2Z2Vlf2g--.png&w=60&h=60&c=6&qlt=90&o=6&dpr=1.3&pid=BingSports"></img>
       <br></br>
       <label>Table</label>
       <thead>
