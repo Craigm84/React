@@ -1,11 +1,15 @@
 
-function Trainee() {
+function Trainee(props) {
+console.log("Props", props);
+console.log("Name", props.name);
+console.log("Sname", props.surname);
+console.log("Age", props.age);
 
     return (
         <div>
-            <p>Craig</p>
-            <p>Morris</p>
-            <p>39</p>
+            <p>Name: {props.name}</p>
+            <p>Surname: {props.surname}</p>
+            <p>Age: {props.age}</p>
         </div>
     );
 }
