@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Trainee from './components/Trainee';
 import SecondAttempt from './components/SecondAttempt';
+import Trainer from './components/Trainer';
 
 function App() {
   return (
@@ -47,7 +48,9 @@ function App() {
       </thead>
 <Trainee name="Ria" surname="Morris" age="39"/>
 <SecondAttempt />
-<ol>
+<Trainer name="Jordan" surname="Harrison" age="29"/>
+<Trainer name="Andrew" surname="McCall" age="21"/>
+  <ol>
   <li>A</li>
   <li>B</li>
   <li>C</li>

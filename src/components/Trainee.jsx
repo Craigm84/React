@@ -2,7 +2,7 @@
 function Trainee(props) {
 console.log("Props", props);
 console.log("Name", props.name);
-console.log("Sname", props.surname);
+console.log("Surname", props.surname);
 console.log("Age", props.age);
 
     return (
