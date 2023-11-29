@@ -1,5 +1,6 @@
 
-function Trainee(props) {
+function Trainee(props) 
+{
 console.log("Props", props);
 console.log("Name", props.name);
 console.log("Surname", props.surname);
