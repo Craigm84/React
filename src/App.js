@@ -13,18 +13,15 @@ import Counter from './components/Counter';
 import CatFacts from './components/Catfacts';
 import APIking from './components/APIking';
 import Pokemon from './components/Poke';
-import PostRequest from './components/PostRequest';
 
 function App() {
 
 
-
   return (
     <div>
-
-    {/* <Pokemon/>
+    <Pokemon/>
       <header>React Practice</header>
-      <fieldset><h1 style={{ background: "green", color: "red" }}>React</h1>
+      <fieldset><h1 style={{ background: "darkcyan", color: "chartreuse" }}>React</h1>
       </fieldset>
       <article>This is my article</article>
       <CatFacts />
@@ -38,10 +35,7 @@ function App() {
       <Button />
       <List />
       <KingSolution /> 
-      <APIking/> */}
-
-      <PostRequest/>
-
+      <APIking/>
     </div>
 
   );
